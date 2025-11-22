@@ -1,2 +1,2 @@
-# Laba_OS Artyom
+# Laba_OS ABDU
 
