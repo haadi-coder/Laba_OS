@@ -1,1 +1,1 @@
-# Laba_OS Artyom2
+# Laba_OS
